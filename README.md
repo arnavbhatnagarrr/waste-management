@@ -5,11 +5,6 @@ A modern, responsive website for **Pavitra Foundation**, focused on building cir
 
 ---
 
-## 🚀 Live Website
-(After deployment, add your link here)
-
----
-
 ## 📌 About the Project
 
 Pavitra Foundation is working on solving the growing e-waste crisis through **grassroots logistics software** that enables:
